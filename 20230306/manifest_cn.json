@@ -1,0 +1,437 @@
+[
+    {
+        "guid": "9a19103f-16f7-4668-be54-9a1e7a4f7556",
+        "name": "MetaShark",
+        "description": "jellyfin\u7535\u5f71\u5143\u6570\u636e\u63d2\u4ef6\uff0c\u5f71\u7247\u4fe1\u606f\u53ea\u8981\u4ece\u8c46\u74e3\u83b7\u53d6\uff0c\u5e76\u7531TMDB\u8865\u5145\u7f3a\u5931\u7684\u5267\u96c6\u6570\u636e\u3002",
+        "overview": "jellyfin\u7535\u5f71\u5143\u6570\u636e\u63d2\u4ef6",
+        "owner": "cxfksword",
+        "category": "Metadata",
+        "imageUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/raw/main/doc/logo.png",
+        "versions": [
+            {
+                "version": "1.7.0.0",
+                "changelog": "\u4fee\u590dhttps\u4e0b\u56fe\u7247\u4e0b\u8f7d",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.7.0/metashark_1.7.0.0.zip",
+                "checksum": "7f358b8f1576f0a74bbe5f9f271b184e",
+                "timestamp": "2023-07-20T15:02:38"
+            },
+            {
+                "version": "1.6.13.0",
+                "changelog": "\u4fee\u6b63\u90e8\u5206\u6f14\u5458\u82f1\u6587\u540d\u622a\u65ad",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.13/metashark_1.6.13.0.zip",
+                "checksum": "32dbd5c265234ab653926e03ded0e309",
+                "timestamp": "2023-07-14T06:24:48"
+            },
+            {
+                "version": "1.6.12.0",
+                "changelog": "\u4fee\u6b63\u8c46\u74e3\u56fe\u7247\u83b7\u53d6",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.12/metashark_1.6.12.0.zip",
+                "checksum": "61a34440468c70ed1f0cc61d2f711544",
+                "timestamp": "2023-07-11T08:50:46"
+            },
+            {
+                "version": "1.6.11.0",
+                "changelog": "\u4f18\u5316\u6f14\u5458\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.11/metashark_1.6.11.0.zip",
+                "checksum": "5d22ef64c52e0466e11e71cf9318c67d",
+                "timestamp": "2023-05-28T06:48:47"
+            },
+            {
+                "version": "1.6.10.0",
+                "changelog": "\u4f18\u5148tmdb\u7535\u89c6\u5267\u5339\u914d",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.10/metashark_1.6.10.0.zip",
+                "checksum": "b7a5c93cafef61458aa47264c393f226",
+                "timestamp": "2023-05-28T04:29:03"
+            },
+            {
+                "version": "1.6.9.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.9/metashark_1.6.9.0.zip",
+                "checksum": "2fabacb962cf6190405be3f11bbd093d",
+                "timestamp": "2023-05-28T02:51:14"
+            },
+            {
+                "version": "1.6.8.0",
+                "changelog": "\u4f18\u5316\u6f14\u5458\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.8/metashark_1.6.8.0.zip",
+                "checksum": "d8a9babdec5b57606bea3c39e4743e48",
+                "timestamp": "2023-05-19T13:44:35"
+            },
+            {
+                "version": "1.6.7.0",
+                "changelog": "\u4fee\u6b63\u65e7imdb\u53f7",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.7/metashark_1.6.7.0.zip",
+                "checksum": "060d7254c23f18427322b2e75b7d85ab",
+                "timestamp": "2023-05-13T03:20:54"
+            },
+            {
+                "version": "1.6.6.0",
+                "changelog": "\u4f18\u5316\u7535\u89c6\u5267\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.6/metashark_1.6.6.0.zip",
+                "checksum": "8106041e2a11611db33416af262b27c5",
+                "timestamp": "2023-04-06T15:08:07"
+            },
+            {
+                "version": "1.6.5.0",
+                "changelog": "\u4f18\u5316\u7535\u89c6\u5267\u539f\u6807\u9898",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.5/metashark_1.6.5.0.zip",
+                "checksum": "d13e3a2c446ff38148462461ff6ce972",
+                "timestamp": "2023-04-01T03:49:03"
+            },
+            {
+                "version": "1.6.4.0",
+                "changelog": "\u4fee\u6b63\u641c\u7d22\u5e74\u4efd\u89e3\u6790",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.4/metashark_1.6.4.0.zip",
+                "checksum": "f90665a32e5a53eb514b2ff6deea9ba0",
+                "timestamp": "2023-03-25T06:38:37"
+            },
+            {
+                "version": "1.6.3.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.3/metashark_1.6.3.0.zip",
+                "checksum": "f4433a0dff85f411ad588cea8183aa3d",
+                "timestamp": "2023-03-19T04:03:57"
+            },
+            {
+                "version": "1.6.2.0",
+                "changelog": "\u4fee\u6b63\u8bc6\u522b\u65f6\u53ea\u8fd4\u56de\u4e00\u4e2a\u7ed3\u679c",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.2/metashark_1.6.2.0.zip",
+                "checksum": "79191f7e541b70bbfc36ddf9b9675804",
+                "timestamp": "2023-03-18T16:22:17"
+            },
+            {
+                "version": "1.6.1.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.1/metashark_1.6.1.0.zip",
+                "checksum": "f56e590bc315c50bcce015494cbf9299",
+                "timestamp": "2023-03-18T15:41:40"
+            },
+            {
+                "version": "1.6.0.0",
+                "changelog": "\u589e\u52a0\u5206\u7ea7\u4fe1\u606f, \u4fee\u6b63tmdb\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.6.0/metashark_1.6.0.0.zip",
+                "checksum": "831057926cbac8f29c053913c44aef29",
+                "timestamp": "2023-03-18T04:01:24"
+            },
+            {
+                "version": "1.5.9.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.9/metashark_1.5.9.0.zip",
+                "checksum": "eb000f484c0e33881fca555edd3602b6",
+                "timestamp": "2023-03-12T08:08:56"
+            },
+            {
+                "version": "1.5.8.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.8/metashark_1.5.8.0.zip",
+                "checksum": "cb5d7a4d1bdbf16dd5d818707f7c3acc",
+                "timestamp": "2023-03-05T07:55:18"
+            },
+            {
+                "version": "1.5.7.0",
+                "changelog": "\u4fee\u6b63\u8d8a\u8d85\u957f\u7b80\u4ecb",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.7/metashark_1.5.7.0.zip",
+                "checksum": "15f9e81b73d74b752db0e2788d421e76",
+                "timestamp": "2023-03-01T13:38:15"
+            },
+            {
+                "version": "1.5.6.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.6/metashark_1.5.6.0.zip",
+                "checksum": "26e9644a379d1d5d2f9814856ee7ee07",
+                "timestamp": "2023-02-25T02:00:52"
+            },
+            {
+                "version": "1.5.5.0",
+                "changelog": "\u4fee\u6b63\u9ed8\u8ba4\u5b63\u53f7\u5bfc\u81f4\u5f71\u7247\u9519\u4e71bug",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.5/metashark_1.5.5.0.zip",
+                "checksum": "ceec086439f51cfa066ca25fc9548f4d",
+                "timestamp": "2023-02-23T12:06:14"
+            },
+            {
+                "version": "1.5.4.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.4/metashark_1.5.4.0.zip",
+                "checksum": "7ee17eca67ac4464a85b6114e6dc7c2e",
+                "timestamp": "2023-02-22T13:22:57"
+            },
+            {
+                "version": "1.5.3.0",
+                "changelog": "\u4f18\u5316\u52a8\u753b\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.3/metashark_1.5.3.0.zip",
+                "checksum": "94fa68f41e7ebb630aa92d4a161b7aca",
+                "timestamp": "2023-02-21T14:49:55"
+            },
+            {
+                "version": "1.5.2.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.2/metashark_1.5.2.0.zip",
+                "checksum": "ced535b9825d85d89b56957271138d0c",
+                "timestamp": "2023-02-20T13:12:27"
+            },
+            {
+                "version": "1.5.1.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.1/metashark_1.5.1.0.zip",
+                "checksum": "ced13254522e6d8ebd14bf34e5df40ac",
+                "timestamp": "2023-02-18T13:49:05"
+            },
+            {
+                "version": "1.5.0.0",
+                "changelog": "\u652f\u6301\u5408\u96c6(\u9700\u914d\u7f6e\u4e2d\u5f00\u542f)",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.5.0/metashark_1.5.0.0.zip",
+                "checksum": "ae4e5463fa1058ebe5d6df1579759089",
+                "timestamp": "2023-02-17T06:45:52"
+            },
+            {
+                "version": "1.4.9.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.9/metashark_1.4.9.0.zip",
+                "checksum": "f1e2a6858838425b5f167f67f7601064",
+                "timestamp": "2023-02-05T07:25:23"
+            },
+            {
+                "version": "1.4.8.0",
+                "changelog": "\u4f18\u5316\u5b63\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.8/metashark_1.4.8.0.zip",
+                "checksum": "8fe4cb1a862a51833b57e75b414bc729",
+                "timestamp": "2023-02-03T14:47:01"
+            },
+            {
+                "version": "1.4.7.0",
+                "changelog": "\u4f18\u5316\u56fe\u7247\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.7/metashark_1.4.7.0.zip",
+                "checksum": "a98371cf4b949a8992e46a52dc95f728",
+                "timestamp": "2023-01-19T10:40:44"
+            },
+            {
+                "version": "1.4.6.0",
+                "changelog": "\u4fee\u6b63android\u7aef\u8bc6\u522b\u65f6\u4e0d\u663e\u793a\u56fe\u7247",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.6/metashark_1.4.6.0.zip",
+                "checksum": "aa617c2257a1ce0384955b0a070c7b24",
+                "timestamp": "2023-01-19T04:49:27"
+            },
+            {
+                "version": "1.4.5.0",
+                "changelog": "\u4fee\u6b63\u7efc\u827a\u6f14\u5458\u4e22\u5931",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.5/metashark_1.4.5.0.zip",
+                "checksum": "8788e6423ea3a6ef0aa2d4b00ccea836",
+                "timestamp": "2023-01-18T10:41:31"
+            },
+            {
+                "version": "1.4.4.0",
+                "changelog": "\u4fee\u6b63\u7efc\u827a\u6f14\u5458\u4e22\u5931",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.4/metashark_1.4.4.0.zip",
+                "checksum": "f234c610581ed46fee8fb569effb8385",
+                "timestamp": "2023-01-18T10:27:38"
+            },
+            {
+                "version": "1.4.3.0",
+                "changelog": "\u4f18\u5316\u80cc\u666f\u56fe",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.3/metashark_1.4.3.0.zip",
+                "checksum": "0abb248a518ce33a328d6978b3262f3e",
+                "timestamp": "2023-01-18T08:55:21"
+            },
+            {
+                "version": "1.4.2.0",
+                "changelog": "\u4f18\u5316\u80cc\u666f\u56fe",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.2/metashark_1.4.2.0.zip",
+                "checksum": "afcef5591aeb19e93825d740333d2ac6",
+                "timestamp": "2023-01-18T08:40:49"
+            },
+            {
+                "version": "1.4.1.0",
+                "changelog": "\u589e\u52a0\u4ecetmdb\u8865\u5168\u80cc\u666f\u56fe\u914d\u7f6e",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.1/metashark_1.4.1.0.zip",
+                "checksum": "00cb2a8e3fe77e5a02b0797f2de225d2",
+                "timestamp": "2023-01-17T07:39:00"
+            },
+            {
+                "version": "1.4.0.0",
+                "changelog": "\u589e\u52a0\u4ecetmdb\u8865\u5168\u80cc\u666f\u56fe\u914d\u7f6e",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.4.0/metashark_1.4.0.0.zip",
+                "checksum": "f225a8da94cd858d46f0d67e38fcb78f",
+                "timestamp": "2023-01-17T07:09:04"
+            },
+            {
+                "version": "1.3.1.0",
+                "changelog": "\u4fee\u6b63\u6f14\u5458\u4fe1\u606f\u9519\u8bef\u5bfc\u81f4\u8bc6\u522b\u5931\u8d25",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.3.1/metashark_1.3.1.0.zip",
+                "checksum": "284dd0e1fc0e1fe92986090a9cb1c152",
+                "timestamp": "2023-01-14T02:35:52"
+            },
+            {
+                "version": "1.3.0.0",
+                "changelog": "\u589e\u52a0\u8c46\u74e3\u9632\u5c01\u7981\u6a21\u5f0f\u914d\u7f6e",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.3.0/metashark_1.3.0.0.zip",
+                "checksum": "57e15903a3398a17b853f286e12e5c01",
+                "timestamp": "2023-01-13T12:41:48"
+            },
+            {
+                "version": "1.2.9.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.9/metashark_1.2.9.0.zip",
+                "checksum": "51154968f6ccb54df9101bb4a66343d3",
+                "timestamp": "2023-01-07T06:29:44"
+            },
+            {
+                "version": "1.2.8.0",
+                "changelog": "\u4fee\u6b63\u65e5\u5fd7\u540d\u79f0",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.8/metashark_1.2.8.0.zip",
+                "checksum": "e3db7b1b19988f68e939c6b2386cf9c3",
+                "timestamp": "2023-01-05T07:19:14"
+            },
+            {
+                "version": "1.2.7.0",
+                "changelog": "\u4fee\u6b63jellyfin\u5ba2\u6237\u7aef\u4e0d\u663e\u793a\u56fe\u7247",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.7/metashark_1.2.7.0.zip",
+                "checksum": "5f000536311f3ba660b11445d4732e32",
+                "timestamp": "2023-01-05T07:10:47"
+            },
+            {
+                "version": "1.2.6.0",
+                "changelog": "\u4fee\u6b63\u7535\u89c6\u5267\u6f14\u5458\u4fe1\u606f\u4e22\u5931",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.6/metashark_1.2.6.0.zip",
+                "checksum": "ddf356c1381e64dc714bced9c682881e",
+                "timestamp": "2023-01-02T06:14:43"
+            },
+            {
+                "version": "1.2.5.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.5/metashark_1.2.5.0.zip",
+                "checksum": "596e3a770c4c1b2bd2b934a3b440dbc8",
+                "timestamp": "2022-12-30T06:35:36"
+            },
+            {
+                "version": "1.2.4.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\uff0c\u8c46\u74e3cookie\u652f\u6301\u4e0d\u91cd\u542f\u751f\u6548",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.4/metashark_1.2.4.0.zip",
+                "checksum": "23ffa02e50135f016f6d3a94f7cd205c",
+                "timestamp": "2022-12-23T13:49:34"
+            },
+            {
+                "version": "1.2.3.0",
+                "changelog": "\u4fee\u6b63\u6f14\u5458\u7167\u7247\u83b7\u53d6\u9519\u8bef",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.3/metashark_1.2.3.0.zip",
+                "checksum": "f812b728b3a3c5098a00f3fbd7f5b23e",
+                "timestamp": "2022-12-18T04:12:01"
+            },
+            {
+                "version": "1.2.2.0",
+                "changelog": "Fix bug",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.2/metashark_1.2.2.0.zip",
+                "checksum": "e6c81b6a18f072a3318cd68af99c6cb4",
+                "timestamp": "2022-12-15T16:43:25"
+            },
+            {
+                "version": "1.2.1.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u4e2d\u82f1\u6df7\u5408\u6587\u4ef6\u540d",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.1/metashark_1.2.1.0.zip",
+                "checksum": "6e93bf7def7862c65dddf2fc8bd5965b",
+                "timestamp": "2022-12-15T09:25:27"
+            },
+            {
+                "version": "1.2.0.0",
+                "changelog": "\u4f18\u5316\u8bc6\u522b\u4e2d\u82f1\u6df7\u5408\u6587\u4ef6\u540d",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.2.0/metashark_1.2.0.0.zip",
+                "checksum": "99dec85ea331d16d3b11a63cafd037d4",
+                "timestamp": "2022-12-15T09:08:56"
+            },
+            {
+                "version": "1.1.0.0",
+                "changelog": "\u4fee\u6b63\u5f02\u5e38\u9519\u8bef",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.1.0/metashark_1.1.0.0.zip",
+                "checksum": "e479e4938b4b71fa6ded2079a6f2ad9a",
+                "timestamp": "2022-11-12T03:50:47"
+            },
+            {
+                "version": "1.0.9.0",
+                "changelog": "\u4f18\u5316\u52a8\u753b\u7279\u5178\u8bc6\u522b\u5904\u7406",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.0.9/metashark_1.0.9.0.zip",
+                "checksum": "950e93abcdf91528d419f9f2dc1e9037",
+                "timestamp": "2022-11-08T05:06:17"
+            },
+            {
+                "version": "1.0.8.0",
+                "changelog": "\u4f18\u5316\u83b7\u53d6\u5b63\u548c\u5267\u96c6\u5143\u6570\u636e",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.0.8/metashark_1.0.8.0.zip",
+                "checksum": "3de20554519a882d84f161f5fbcdb1bf",
+                "timestamp": "2022-11-01T14:30:21"
+            },
+            {
+                "version": "1.0.7.0",
+                "changelog": "\u4f18\u5316\u5b63\u6570\u636e\u8bc6\u522b",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.0.7/metashark_1.0.7.0.zip",
+                "checksum": "ca702a3faac4055f12496ba83a697ce7",
+                "timestamp": "2022-10-30T09:26:13"
+            },
+            {
+                "version": "1.0.6.0",
+                "changelog": "\u8bc6\u522banime\u547d\u540d\u683c\u5f0f\u4e2dSP\u7279\u5178",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.0.6/metashark_1.0.6.0.zip",
+                "checksum": "11387f40c6de0e0f5a6cc8ae2bffef84",
+                "timestamp": "2022-10-29T13:47:58"
+            },
+            {
+                "version": "1.0.5.0",
+                "changelog": "\u589e\u52a0\u8fd4\u56detmdb\u641c\u7d22\u7ed3\u679c\u914d\u7f6e",
+                "targetAbi": "10.8.0.0",
+                "sourceUrl": "https://stupid-proxy.wuliang142857.me/https://github.com/cxfksword/jellyfin-plugin-metashark/releases/download/v1.0.5/metashark_1.0.5.0.zip",
+                "checksum": "c31ead3fabae0d5dfa63b8ac72450870",
+                "timestamp": "2022-10-28T03:56:28"
+            }
+        ]
+    }
+]
